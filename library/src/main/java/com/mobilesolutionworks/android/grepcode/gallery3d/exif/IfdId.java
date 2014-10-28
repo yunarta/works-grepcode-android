@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.mobilesolutionworks.grepcode.gallery3d.exif;
+package com.mobilesolutionworks.android.grepcode.gallery3d.exif;
 
 /**
  * The constants of the IFD ID defined in EXIF spec.
